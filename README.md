@@ -5,6 +5,7 @@ Information Systems Student
 Currently learning SQL, Python, Power BI, and Web Development.
 
 I use GitHub to document my learning journey, coursework projects, and personal projects.
+My goal is to build practical skills in data analytics and business intelligence through hands-on projects.
 
 ## Currently Learning
 
